@@ -1,0 +1,31 @@
+.btn-container{
+    width: 400px;
+}
+
+.btn-group{
+    display: flex;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    border: none;
+    transition: 0.5s;
+}
+
+.btn-long{
+    width: 300px;
+    background-color: peru;
+
+}
+.btn-brand{
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #454545;
+    color: white;
+
+}
